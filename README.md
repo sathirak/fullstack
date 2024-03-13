@@ -1,7 +1,5 @@
-![api](https://github.com/sathirak/node-api-template/assets/145209193/37780291-8d4b-48d7-a93a-89c7e9acaacd)
-
 <div align="center">
-  <img width="350" height="350" src="https://github.com/sathirak/node-api-template/assets/145209193/37780291-8d4b-48d7-a93a-89c7e9acaacd" />
+  <img width="250" height="250" src="https://github.com/sathirak/node-api-template/assets/145209193/76f7f0b2-e030-479d-aa2d-c1c7aa27f17b" />
 <div/>
 
 <div align="left">
