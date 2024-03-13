@@ -1,7 +1,7 @@
-
+![api](https://github.com/sathirak/node-api-template/assets/145209193/37780291-8d4b-48d7-a93a-89c7e9acaacd)
 
 <div align="center">
-  <img width="150" height="150" src="https://github.com/sathirak/node-api-template/assets/145209193/c5aabee8-a5b2-4782-8433-0d4daf6dbb1f" />
+  <img width="350" height="350" src="https://github.com/sathirak/node-api-template/assets/145209193/37780291-8d4b-48d7-a93a-89c7e9acaacd" />
 <div/>
 
 <div align="left">
@@ -22,6 +22,15 @@ This repository serves as a template for building robust and scalable APIs using
 - **Authentication**: JWT-based authentication strategy for securing your APIs.
 - **Testing**: Unit and integration testing with Jest and supertest.
 - **Linting**: Enforced code quality and styling with ESLint and Prettier.
+  
+<div/>
+  
+<div align="center">
+  <img width="100" height="100" src="https://github.com/sathirak/node-api-template/assets/145209193/f1f1fec3-42fe-4093-b1b0-ed85a887a834" />
+  <img width="100" height="100" src="https://github.com/sathirak/node-api-template/assets/145209193/c5aabee8-a5b2-4782-8433-0d4daf6dbb1f" />
+<div/>
+
+<div align="left">
 
 ## Getting Started
 
@@ -36,41 +45,52 @@ This repository serves as a template for building robust and scalable APIs using
 
 ```
 git clone https://github.com/your-username/node-typescript-api-template.git
-#Change to the project directory:
-
-cd node-typescript-api-template
-#Install dependencies:
-
-npm install
-#Create a .env file in the root directory and configure the required environment variables (refer to the .env.example file for guidance).
-#Start the development server:
-
-npm run dev
-#The API will be running at http://localhost:3000.
-
 ```
 
-Documentation
+2. Change to the project directory:
+
+```
+cd node-api-template
+```
+
+3. Install dependencies:
+
+```
+npm install
+```
+
+4. Create a .env file in the root directory and configure the required environment variables (refer to the .env.example file for guidance).
+  
+5. Start the development server:
+
+```
+npm run dev
+```
+
+6. The API will be running at http://localhost:3000.
+
+### Documentation
 API documentation is available at http://localhost:3000/api-docs when running the development server.
 
-Testing
+### Testing
 #Run the test suite with:
 
-```
 
+```
 npm test
-
-
-```
-#Building for Production
-#To build the production-ready package, run:
-
 ```
 
+### Building for Production
+
+To build the production-ready package, run:
+
+```
 npm run build
-#This will create an optimized build in the dist directory.
 ```
-Contributing
+This will create an optimized build in the dist directory.
+
+### Contributing
+
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
@@ -78,13 +98,10 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
 Push your changes to your forked repository.
 Submit a pull request to the main repository.
-License
+
+#### License
+
 This project is licensed under the GPL-3.0 license.
-
-
-
-
-This README file provides an overview of the Node.js TypeScript API template repository, including its features, installation instructions, development and production build steps, API documentation, testing, contributing guidelines, and license information. Feel free to modify it according to your specific requirements and add any additional sections or details as needed.
 
 
 <div/>
